@@ -6,7 +6,7 @@ import {
   StyledNavLink,
 } from './Layout.styled';
 import { Suspense } from 'react';
-import { Footer } from 'pages/Footer';
+import { Footer } from 'Footer';
 
 export const Layout = () => {
   return (
